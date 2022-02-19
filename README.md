@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 |     9:45-10:35     |            biologia 2            |       historia de mexico 2       |                    biologia 2                    |          historia de mexico 2          |     literatura 2    |
 | Receso 11:35-11:05 |                                  |                                  |                                                  |                                        |                     |
 |     11:05-11:55    |             fisica 2             |          matematicas lV          |                     Inglés lV                    |                Inglés lV               | Historia de mexico2 |
-|     12:00-12:50    |                                  |             Inglés lV            |               comunidades virtuales              |                fisica 2                |                     |
+|     12:00-12:50    |            Matematicas lV                      |             Inglés lV            |               comunidades virtuales              |                fisica 2                |                     |
 |     12:55-13:45    |                                  |       comunidades virtuales      |               comunidades virtuales              |             matematicas lV             |                     |
