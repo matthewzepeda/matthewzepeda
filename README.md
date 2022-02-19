@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .
 -->
+![](https://r67.cooltext.com/rendered/cooltext404725467672492.png)
 |        hora        |               lunes              |              martes              |                     miercoles                    |                 jueves                 |       viernes       |
 |:------------------:|:--------------------------------:|:--------------------------------:|:------------------------------------------------:|:--------------------------------------:|:-------------------:|
 |      7:00-7:50     | mantenimiento y redes de Cómputo |             física 2             | actividades fisicas, deportivas y recreativas lV | Actividades artisticas y culturales lV |      biologia 2     |
